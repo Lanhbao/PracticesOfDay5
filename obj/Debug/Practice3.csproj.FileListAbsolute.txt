@@ -1,0 +1,9 @@
+C:\Users\vietn\source\repos\PracticesOfDay5\bin\Debug\PracticesOfDay5.exe.config
+C:\Users\vietn\source\repos\PracticesOfDay5\bin\Debug\PracticesOfDay5.exe
+C:\Users\vietn\source\repos\PracticesOfDay5\bin\Debug\PracticesOfDay5.pdb
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\Practice3.csprojAssemblyReference.cache
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\PracticesOfDay5.Form1.resources
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\PracticesOfDay5.Properties.Resources.resources
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\Practice3.csproj.GenerateResource.cache
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\PracticesOfDay5.exe
+C:\Users\vietn\source\repos\PracticesOfDay5\obj\Debug\PracticesOfDay5.pdb
